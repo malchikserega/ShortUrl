@@ -1,2 +1,2 @@
 # ShortUrl
-Shortener Url
+Shortener Url - simple service as like goo.gl or bit.ly.
